@@ -1,0 +1,18 @@
+name: data140
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - datascience=0.18.1
+  - numpy=2.4.6
+  - scipy=1.17.1
+  - matplotlib=3.11.1
+  - sympy=1.14.0
+  - ipykernel=7.3.0
+  - ipywidgets=8.1.9
+  - jupyterlab=4.6.3
+  - notebook=7.6.2
+  - sphinx=9.0.4
+  - pip:
+      - prob140==0.4.1.6
