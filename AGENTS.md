@@ -9,7 +9,7 @@ This is a repository for a Data 140 assignment.
 1. Identify all parts that require review.
 2. If the problem has associated tests, run them.
 3. If the problem lacks tests (e.g., open-ended questions), evaluate the reasonableness of the answer.
-4. If tests fail, point out the erroneous sections using a heuristic approach (do not explicitly state how to fix them).
+4. If tests fail, you can look up the relevant sections in `~/textbok/content` and list them; I will re-read those parts.
 5. If tests pass: where applicable, suggest ways to make the answer more concise.
 
 6. Exercise caution with problems involving automated checks, as these may not cover every scenario.
@@ -19,6 +19,9 @@ This is a repository for a Data 140 assignment.
 10. Submission issues need not be considered.
 11. If a problem is correct, there is no need to mention it in your response; focus only on the parts requiring modification.
 12. Optional problems need not be addressed.
+13. Please answer in Simplified Chinese.
+
+14. Where there is no answer, it means I am unable to provide one. Please guide me as a teacher would.
 
 # Environment
 
