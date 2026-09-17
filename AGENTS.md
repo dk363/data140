@@ -23,6 +23,8 @@ This is a repository for a Data 140 assignment.
 
 14. Where there is no answer, it means I am unable to provide one. Please guide me as a teacher would.
 
+15. 对于回答中出现的英文, 很可能有语法错误, 因为我正在学习英语写作. 
+
 # Environment
 
 - This project uses a Conda environment named `data140`; dependency specifications are located in `environment.yml` at the repository root.
@@ -33,3 +35,4 @@ This is a repository for a Data 140 assignment.
 - Python version: 3.11. Key dependencies include `datascience 0.18.1`, `numpy 2.4.6`, `scipy 1.17.1`, `matplotlib 3.11.1`, `sympy 1.14.0`, and `prob140 0.4.1.6`.
 - Notebook tools include `JupyterLab 4.6.3`, `Notebook 7.6.2`, `ipykernel 7.3.0`, and `ipywidgets 8.1.9`. Launch using `conda run -n data140 jupyter lab`.
 - The current environment does not have `pytest`, `otter`, or `check50` installed. When reviewing assignments, first check the notebook for built-in tests or a dedicated grader; if no tests are available, evaluate the validity of the answers based on the requirements mentioned above.
+
