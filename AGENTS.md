@@ -36,3 +36,4 @@ This is a repository for a Data 140 assignment.
 - Notebook tools include `JupyterLab 4.6.3`, `Notebook 7.6.2`, `ipykernel 7.3.0`, and `ipywidgets 8.1.9`. Launch using `conda run -n data140 jupyter lab`.
 - The current environment does not have `pytest`, `otter`, or `check50` installed. When reviewing assignments, first check the notebook for built-in tests or a dedicated grader; if no tests are available, evaluate the validity of the answers based on the requirements mentioned above.
 
+
